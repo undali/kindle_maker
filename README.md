@@ -19,7 +19,7 @@ Want to see what it looks like? Take a look at [examples](./examples)!
 ## Installation
 
 1. (optional) Source your virtualenv.
-2. `pip install git+https://github.com/jachinlin/kindle_maker.git`
+2. `pip install git+https://github.com/undali/kindle_maker.git`
 
 ## Usage
 
